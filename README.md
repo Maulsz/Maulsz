@@ -9,7 +9,7 @@
   <p>
     <img src="https://img.shields.io/badge/Status-Student%20&%20Developer-14b8a6?style=flat-square&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/School-SMKIT%20Ibnul%20Qayyim-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Role-Ketua%20OSIS-gold?style=flat-square" />
+    <img src="https://img.shields.io/badge/Role-Web%20Dev-gold?style=flat-square" />
     <img src="https://img.shields.io/badge/Location-Makassar,%20Indonesia-orange?style=flat-square" />
   </p>
 </div>
