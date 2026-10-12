@@ -54,7 +54,7 @@
       <sub>Frontend & Backend Apps</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Aza2Z1MDRxZzRwOHFsdG1vM2k2bXlhN2JjcXdweXBybmd4ZjE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lhE3eY33sS1oI/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x2MmI5OHpnZmdsOXplMW91b3d5Z2kxZXE4bTI0ZnYyN3F5czVkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/meJN6qdG74lUKAJTQl/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
       <b>UI/UX Design</b><br />
       <sub>Responsive & Modern Design</sub>
     </td>
