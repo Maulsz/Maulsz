@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Header Banner dengan teks warna PUTIH dan posisi pas di tengah -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=180&section=header&text=Hi%20There!%20👋%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=white" width="100%" />
+  <!-- Header Banner dengan Teks Putih Bersih (HEX: ffffff) & Presisi di Tengah -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=180&section=header&text=Hi%20There!%20👋%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=ffffff&y=50" width="100%" />
 </div>
 
 <div align="center">
