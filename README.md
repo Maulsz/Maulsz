@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools (Style Foto 4)
+### Tech Stack & Tools 
 
 <p>
   <!-- Languages -->
@@ -44,7 +44,7 @@
 
 ---
 
-### 🐱 What I Do / Focus Areas (Style Foto 5 dengan GIF Kucing)
+###  What I Do / Focus Areas 
 
 <table>
   <tr>
@@ -54,14 +54,9 @@
       <sub>Frontend & Backend Apps</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x2MmI5OHpnZmdsOXplMW91b3d5Z2kxZXE4bTI0ZnYyN3F5czVkayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/meJN6qdG74lUKAJTQl/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
-      <b>UI/UX Design</b><br />
-      <sub>Responsive & Modern Design</sub>
-    </td>
-    <td align="center" width="33%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FpY3kydXF6YWRreXB2OGIybjZ6YmdxZ2tlbGpoY2Zjc3R3NHN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
-      <b>Leadership</b><br />
-      <sub>OSIS Student Management</sub>
+      <b>LUI/UX Design</b><br />
+      <sub>Responsive & Modern Design</sub>
     </td>
   </tr>
 </table>
