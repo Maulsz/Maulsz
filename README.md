@@ -56,7 +56,7 @@
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FpY3kydXF6YWRreXB2OGIybjZ6YmdxZ2tlbGpoY2Zjc3R3NHN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
       <b>LUI/UX Design</b><br />
-      <sub>Responsive & Modern Design</sub>
+      <sub>Modern Responsive Design</sub>
     </td>
   </tr>
 </table>
