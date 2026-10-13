@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Custom Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=180&section=header&text=Hi%20There!%20👋%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=2dd4bf" width="100%" />
+  <!-- Header Banner dengan teks warna PUTIH dan posisi pas di tengah -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&height=180&section=header&text=Hi%20There!%20👋%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=white" width="100%" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-### Tech Stack & Tools 
+### 🛠️ Tech Stack & Tools
 
 <p>
   <!-- Languages -->
@@ -44,7 +44,7 @@
 
 ---
 
-###  What I Do / Focus Areas 
+### 🐱 What I Do / Focus Areas
 
 <table>
   <tr>
@@ -55,8 +55,13 @@
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FpY3kydXF6YWRreXB2OGIybjZ6YmdxZ2tlbGpoY2Zjc3R3NHN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
-      <b>LUI/UX Design</b><br />
+      <b>UI/UX Design</b><br />
       <sub>Modern Responsive Design</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Aza2Z1MDRxZzRwOHFsdG1vM2k2bXlhN2JjcXdweXBybmd4ZjE2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lhE3eY33sS1oI/giphy.gif" width="120px" height="120px" style="object-fit:cover;" /><br />
+      <b>Leadership & Management</b><br />
+      <sub>OSIS & Team Coordination</sub>
     </td>
   </tr>
 </table>
@@ -78,7 +83,7 @@
 
 ---
 
-### 🌐 Connect with Me (Style Foto 2)
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://github.com/Maul-ind" target="_blank">
