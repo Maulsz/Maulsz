@@ -66,21 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maul-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=2dd4bf&icon_color=2dd4bf&text_color=c0caf5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maul-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=2dd4bf&text_color=c0caf5" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maul-ind&theme=tokyonight&hide_border=true&background=1a1b26&sideLabels=true" width="100%" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
