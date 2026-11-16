@@ -23,25 +23,36 @@
 
 ### 💻 About Me
 
-<img align="right" width="190" height = "100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
-
-Hi! I'm **Mario Habib Maulana**, also known as **Maulsz**.
-
-I'm a Software Engineering (RPL) student at **SMKIT Ibnul Qayyim Makassar, Indonesia**. I enjoy exploring technology, learning programming, and building digital projects.
-
-Currently, I'm developing my skills in web development and exploring different areas of software engineering.
-
-- 🎓 Software Engineering Student (RPL).
-- 💻 Interested in Web Development.
-- 🌱 Learning PHP, MySQL, JavaScript, and Bootstrap.
-- 🚀 Exploring Backend Development.
-- 🎨 Interested in UI/UX and modern web design.
-- 👨‍💼 Student Council Chairman (Ketua OSIS).
-- 📍 Makassar, Indonesia.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding Animation" />
+      <br />
+      <b>Mario Habib Maulana</b>
+      <br />
+      <sub>Software Engineering Student</sub>
+    </td>
+    <td width="62%" valign="middle">
+      <h3>👋 Hello, I'm Mario!</h3>
+      I'm a Software Engineering (RPL) student at <b>SMKIT Ibnul Qayyim Makassar, Indonesia.</b>
+      <br /><br />
+      Passionate about technology, programming, and building digital experiences. Always learning and exploring new things in software development.
+      <br /><br />
+      <b>🎯 Quick Introduction</b>
+      <ul>
+        <li>🎓 Software Engineering Student</li>
+        <li>💻 Web Development Enthusiast</li>
+        <li>🌱 Learning PHP, MySQL & JavaScript</li>
+        <li>🚀 Exploring Backend Development</li>
+        <li>👨‍💼 Chairman of Student Council (OSIS)</li>
+        <li>📍 Makassar, Indonesia</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🛠️ Tech Stack & Tools
 
