@@ -148,6 +148,8 @@ Currently, I'm developing my skills in web development and exploring different a
 
   <p><em>"Every line of code is another step forward."</em></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,30:0d9488,60:14b8a6,100:080808&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:14b8a6,100:0d9488&height=110&section=footer" width="100%" />
+
 
 </div>
