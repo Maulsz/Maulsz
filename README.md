@@ -2,7 +2,9 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,20:0d9488,50:14b8a6,100:080808&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=15&descAlignY=60" width="100%" />
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:14b8a6,100:0d9488&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Mario&fontSize=35&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student&descSize=15&descAlignY=60" width="100%" />
+
 
   <p><em>"Learn, build, and grow every day through technology."</em></p>
 
