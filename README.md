@@ -95,21 +95,6 @@ Currently, I'm developing my skills in web development and exploring different a
   </tr>
 </table>
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maul-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=14b8a6" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maul-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6" />
-
-  <br /><br />
-
-  <img width="65%" src="https://streak-stats.demolab.com?user=Maul-ind&theme=tokyonight&hide_border=true&background=0D1117&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6" />
-
-</div>
 
 ---
 
