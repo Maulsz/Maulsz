@@ -96,15 +96,6 @@ Currently, I'm developing my skills in web development and exploring different a
 </table>
 
 
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Maul-ind&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" width="90%" />
-
-</div>
 
 ---
 
