@@ -23,7 +23,7 @@
 
 ### 💻 About Me
 
-<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+<img align="right" width="190" height = "100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
 Hi! I'm **Mario Habib Maulana**, also known as **Maulsz**.
 
